@@ -11,7 +11,7 @@ namespace Statistics
       objStats.average=numbers.average()
       objStats.max = numbers.max();
       objStats.min = numbers.min();
-      return objStats
+      return objStats;
     }
   }
   public class Stats
